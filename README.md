@@ -1,5 +1,5 @@
 # Proyecto-QIIME2-Atacama
-Análisis de datos metagenómicos con QIIME2
+Análisis de datos metagenómicos con QIIME2.
 Archivos adicionales y script de código empleado para realizar análisis metagenómico.
 
 ## Carpetas
